@@ -1,4 +1,3 @@
-# threedfigures.py
 
 import math
 

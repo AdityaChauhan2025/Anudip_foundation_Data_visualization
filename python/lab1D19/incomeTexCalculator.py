@@ -1,4 +1,4 @@
-print("🧠 Human Mind Logic Training Program")
+print(" Human Mind Logic Training Program")
 
 # Step 1: User input
 income = float(input("Enter your annual income (₹): "))
@@ -30,8 +30,8 @@ else:
     tax = ((500000 - exemption_limit) * 0.05) + (500000 * 0.20) + ((income - 1000000) * 0.30)
 
 # Step 4: Mind-use advice
-print("\n💡 Mind Usage Analysis:")
+print("\n Mind Usage Analysis:")
 print(f"- Based on your age, you tend to use {strategy}.")
 print(f"- Risk-taking mindset: {risk_taking}")
 print(f"- Logic exercise (simulated tax calculation) result: ₹{tax:.2f}")
-print("🔹 Tip: Keep practicing decision-making, calculation, and strategy thinking to sharpen your mind!")
+print(" Tip: Keep practicing decision-making, calculation, and strategy thinking to sharpen your mind!")
